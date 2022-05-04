@@ -1,4 +1,4 @@
-### Hi, I´m Flavio 👋
+### Hi, I'm Flavio 👋
 
 - 🔭 I'm currently doing my PhD in plant breeding in UHOH
 - 📫 How to reach me: https://lozanoisla.com/
