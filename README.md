@@ -1,7 +1,7 @@
-### **Hi, I'm Flavio!** 👋
+### **Hi, I'm Flavio!** :octocat:
 
-- 🔭 I'm currently doing my PhD in plant breeding in UHOH
-- 📫 How to reach me: https://lozanoisla.com/
+- :mortar_board: I'm currently doing my PhD in plant breeding in UHOH
+- 👋 How to reach me: https://lozanoisla.com/
 
 ***
 I'm an **agronomist** and **plant breeder** 👨‍🌾 with a passion for **open-source development** and **scientific research**. In my free time, I create **educational tools** to support young scientists in **R+D+i**.  
