@@ -1,10 +1,10 @@
-### Hi, I'm Flavio 👋
+### **Hi, I'm Flavio!** 👋
 
 - 🔭 I'm currently doing my PhD in plant breeding in UHOH
 - 📫 How to reach me: https://lozanoisla.com/
 
 ***
-I'm an agronomist and plant breeder :man_farmer:. In my free time I work in develop open source app for educational purpose and support young scientist in R+D+i. Founder of ‘inkaverse’ project to develop different procedures and tools used in plant science and experimental designs. The mean aim of the project is to support researchers during the planning and analysis of experiments.
+I'm an **agronomist** and **plant breeder** 👨‍🌾 with a passion for **open-source development** and **scientific research**. In my free time, I create **educational tools** to support young scientists in **R+D+i**.  
 
-Inkaverse project: https://inkaverse.com/ :microscope:
+I'm also the founder of [**_inkaverse_**](https://inkaverse.com/) 🌱— an initiative dedicated to developing tools and workflows for **plant science** and **experimental design**. The project aims to **empower researchers** by providing **open-source solutions** for planning, analyzing, and interpreting experiments effectively.  
 ***
